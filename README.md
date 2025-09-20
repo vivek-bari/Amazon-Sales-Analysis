@@ -1,14 +1,9 @@
 # Amazon-Sales-Analysis
 "Amazon India Sales Dashboard developed using Python (EDA) and Power BI. Includes data cleansing, trend identification, best-selling products, geographic performance, and fulfillment metrics on a 3-page interactive dashboard for effective business decision-making.
-# 📊 Amazon India Sales Analysis
-
-## 📌 Project Overview
-This project analyzes **Amazon India sales data** using Python (EDA) and Power BI.  
-The goal is to clean, explore, and visualize the dataset to gain insights into sales trends, product performance, regional distribution, and fulfillment methods.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Python:** Pandas, Matplotlib, Seaborn  
 - **Power BI:** Interactive dashboards  
 
@@ -34,7 +29,7 @@ The goal is to clean, explore, and visualize the dataset to gain insights into s
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Clear seasonal sales patterns  
 - Top categories drive majority of revenue  
 - Sales concentrated in specific states & cities  
@@ -42,13 +37,18 @@ The goal is to clean, explore, and visualize the dataset to gain insights into s
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Run the Python notebook (`EDA_Analysis.ipynb`) for preprocessing & EDA  
 2. Open the Power BI file (`amazon_sales_analysis.pbix`) to explore the dashboard  
 
 ---
 
-## 📸 Dashboard Preview
-*(Add screenshots of dashboard and EDA plots here)*  
+## Dashboard Preview
+<img width="1309" height="789" alt="image" src="https://github.com/user-attachments/assets/28542205-0692-4fca-8046-c0429ffd9e5f" />
+<img width="1309" height="712" alt="image" src="https://github.com/user-attachments/assets/60e4f066-276c-44cf-9bca-b6328b972671" />
+<img width="1286" height="724" alt="image" src="https://github.com/user-attachments/assets/95501916-fa87-4a85-8624-2c2438f53565" />
+
+
+ 
 
 
